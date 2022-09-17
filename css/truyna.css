@@ -1,0 +1,80 @@
+#title {
+	text-align: center;
+	font-size: 500%;
+	color: red;
+	background-color: #daed45;
+	margin: 0px;
+}
+#anhchinh {
+	display: block; 
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+	background-color: #45eaed;
+}
+#list {
+	font-size: 300%;
+}
+#tieude_container {
+	display: flex;
+	background-color: #1283b0;
+}
+#anhtruyna {
+	flex: 50%
+}
+#thongtin {
+	flex: 50%
+}
+#fb {
+	text-decoration: none;
+}
+#nhanbiet {
+	font-size: 300%;
+	text-align: center;
+	background-color: #daed45;
+	margin: 10px;
+}
+#video1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%; 
+}
+#video2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%; 
+}
+
+.anhphu2 {
+	margin: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+#final {
+	text-align: center;
+	padding: 20px 20px;
+	background-color: yellow;
+}
+a {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 200%;
+	color: red;
+	padding: 14px 20px;
+	float: left;
+}
+#menu {
+	background-color: yellow;
+	
+	overflow: hidden;
+	text-align: center;
+	margin: 0px;
+}
+#menu a:hover {
+	background-color: pink;
+	color: black;
+}
