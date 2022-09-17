@@ -18,6 +18,7 @@
 #tieude_container {
 	display: flex;
 	background-color: #1283b0;
+	flex-wrap: wrap;
 }
 #anhtruyna {
 	flex: 50%
@@ -77,4 +78,9 @@ a {
 #menu a:hover {
 	background-color: pink;
 	color: black;
+}
+@media(max-width: 800px) {
+	#anhtruyna {
+	flex: 100%;
+	}
 }
