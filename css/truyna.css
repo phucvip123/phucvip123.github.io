@@ -70,7 +70,7 @@ a {
 }
 #menu {
 	background-color: yellow;
-	
+		
 	overflow: hidden;
 	text-align: center;
 	margin: 0px;
@@ -80,7 +80,7 @@ a {
 	color: black;
 }
 @media(max-width: 800px) {
-	#anhtruyna {
+	#anhchinh {
 	flex: 100%;
 	}
 }
