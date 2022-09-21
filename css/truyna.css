@@ -84,4 +84,7 @@
 	#anhchinh {
 	flex: 100%;
 	}
+	#thongtin {
+		flex-wrap: wrap;
+	}
 }
